@@ -66,7 +66,7 @@ More detail: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 Requires Python 3.10+.
 
 ```bash
-git clone https://github.com/<your-org>/herchoice-ai.git
+git clone https://github.com/herchoice-ai/herchoice-ai.git
 cd herchoice-ai
 pip install -e ".[dev]"
 
