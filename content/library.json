@@ -1,0 +1,214 @@
+{
+  "version": "0.1.0-draft",
+  "license": "CC-BY-4.0",
+  "note": "Draft English content written from the cited WHO, UNICEF and ACOG guidance. Every entry must be reviewed and approved by the clinical lead, and translated and checked by the Hausa language lead, before users see it. See docs/CONTENT_REVIEW.md.",
+  "entries": [
+    {
+      "id": "periods-normal",
+      "topic": "Normal periods",
+      "questions": {
+        "en": ["Is my period normal?", "How often should my period come?", "My period is irregular", "How long does a period last?"],
+        "ha": ["Shin al'adata ta dace?", "Sau nawa al'ada ke zuwa?", "Al'adata ba ta zuwa a kan lokaci"]
+      },
+      "answers": {
+        "en": "A period usually comes about once a month. In the first years after periods start, cycles are often irregular, and that is common. For most adults, a cycle (from the first day of one period to the first day of the next) lasts between 21 and 35 days, and bleeding lasts up to about 7 days. See a health worker if your periods stop for 3 months or more and you are not pregnant, if bleeding lasts more than 7 days, or if you soak a pad every hour or two.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["period", "periods", "menstruation", "menstrual", "cycle", "irregular", "late", "monthly", "bleeding", "days"],
+        "ha": ["al'ada", "alada", "jinin", "jini", "wata"]
+      },
+      "min_age_band": "10-14",
+      "sources": ["ACOG Committee Opinion 651: Menstruation in Girls and Adolescents", "UNICEF Guidance on Menstrual Health and Hygiene (2019)"],
+      "review_status": "draft",
+      "tags": ["menstrual-health"]
+    },
+    {
+      "id": "period-pain",
+      "topic": "Period pain",
+      "questions": {
+        "en": ["My period is painful", "How can I stop period cramps?", "Is period pain normal?"],
+        "ha": ["Ciwon ciki lokacin al'ada", "Yaya zan rage ciwon al'ada?"]
+      },
+      "answers": {
+        "en": "Mild cramps in the lower belly before or during a period are common. Rest, a warm cloth or warm water bottle on the belly, gentle movement and drinking water can help. A health worker or pharmacist can advise on pain medicine that is safe for you. See a health worker if the pain stops you from going to school or work, gets worse over time, or comes with fever or unusual discharge.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["pain", "painful", "cramps", "cramp", "belly", "stomach", "hurts", "period"],
+        "ha": ["ciwo", "ciwon", "ciki", "al'ada", "alada"]
+      },
+      "min_age_band": "10-14",
+      "sources": ["ACOG Committee Opinion 651: Menstruation in Girls and Adolescents"],
+      "review_status": "draft",
+      "tags": ["menstrual-health"]
+    },
+    {
+      "id": "menstrual-hygiene",
+      "topic": "Managing your period",
+      "questions": {
+        "en": ["How do I use pads?", "How often should I change my pad?", "How do I clean a cloth pad?"],
+        "ha": ["Yaya zan yi amfani da audugar al'ada?", "Yaya zan wanke kyalle?"]
+      },
+      "answers": {
+        "en": "Change your pad or cloth several times a day, and whenever it feels full or wet. Wash your hands before and after. Reusable cloths should be washed with soap and clean water and dried completely, ideally in sunlight, before using them again. Wash your private parts with clean water; you do not need perfumed products. Periods are a normal part of growing up and nothing to be ashamed of.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["pad", "pads", "cloth", "sanitary", "hygiene", "change", "wash", "clean", "tampon"],
+        "ha": ["auduga", "audugar", "kyalle", "wanke", "tsabta"]
+      },
+      "min_age_band": "10-14",
+      "sources": ["UNICEF Guidance on Menstrual Health and Hygiene (2019)"],
+      "review_status": "draft",
+      "tags": ["menstrual-health"]
+    },
+    {
+      "id": "contraception-methods",
+      "topic": "Family planning methods",
+      "questions": {
+        "en": ["What family planning methods are there?", "How can I avoid getting pregnant?", "Which contraception is best?", "Tell me about family planning"],
+        "ha": ["Wadanne hanyoyin tsarin iyali ake da su?", "Yaya zan guji daukar ciki?", "Ina son sanin hanyoyin tsarin iyali"]
+      },
+      "answers": {
+        "en": "There are many safe family planning methods. Long-acting methods include the implant under the skin of the arm and the intrauterine device (IUD), which last for years and can be removed at any time. Other methods include the injection, daily pills, condoms and emergency contraception. Condoms are the only method that also protects against HIV and other sexually transmitted infections. A trained health worker can help you compare methods. The choice is always yours.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["family", "planning", "contraception", "contraceptive", "contraceptives", "pregnant", "pregnancy", "avoid", "prevent", "pill", "implant", "iud", "injection", "condom", "methods", "spacing"],
+        "ha": ["tsarin", "iyali", "ciki", "kariya", "allura", "kwaya", "hanyoyin"]
+      },
+      "min_age_band": "15-19",
+      "sources": ["WHO Family Planning: A Global Handbook for Providers (2022 update)", "WHO Fact Sheet: Family planning/contraception methods"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["contraception"]
+    },
+    {
+      "id": "contraception-fertility",
+      "topic": "Family planning and fertility",
+      "questions": {
+        "en": ["Will family planning make me infertile?", "Can I get pregnant after stopping contraception?", "Does the injection cause infertility?"],
+        "ha": ["Shin tsarin iyali yana hana haihuwa har abada?", "Zan iya haihuwa bayan na daina tsarin iyali?"]
+      },
+      "answers": {
+        "en": "Modern family planning methods do not cause permanent infertility. With most methods, the ability to become pregnant returns soon after you stop. After the injection, it can take some months longer for fertility to return, so it may suit women who do not plan a pregnancy soon. If you have worries about a method, a trained health worker can explain your options.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["infertile", "infertility", "barren", "fertility", "stop", "stopping", "after", "future", "children", "myth"],
+        "ha": ["haihuwa", "juna", "daina", "rashin"]
+      },
+      "min_age_band": "15-19",
+      "sources": ["WHO Family Planning: A Global Handbook for Providers (2022 update)"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["contraception"]
+    },
+    {
+      "id": "emergency-contraception",
+      "topic": "Emergency contraception",
+      "questions": {
+        "en": ["What is emergency contraception?", "I had sex without protection", "The condom broke", "Morning after pill"],
+        "ha": ["Na yi jima'i ba tare da kariya ba", "Robar kariya ta fashe"]
+      },
+      "answers": {
+        "en": "Emergency contraception can prevent pregnancy after sex without protection or when a method has failed. Emergency pills work best the sooner they are taken, ideally within 3 days (72 hours), and some types work for up to 5 days. A copper IUD placed by a trained provider within 5 days is the most effective option. Emergency pills do not end an existing pregnancy and do not protect against HIV. Go to a pharmacy or health facility as soon as you can.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["emergency", "unprotected", "broke", "burst", "morning", "after", "pill", "postinor", "failed", "without", "protection"],
+        "ha": ["gaggawa", "kariya", "fashe", "jima'i", "jimai"]
+      },
+      "min_age_band": "15-19",
+      "sources": ["WHO Fact Sheet: Emergency contraception", "WHO Family Planning: A Global Handbook for Providers (2022 update)"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["contraception"]
+    },
+    {
+      "id": "fertility-window",
+      "topic": "Trying to get pregnant",
+      "questions": {
+        "en": ["When am I most likely to get pregnant?", "I am trying to conceive", "We have been trying for a baby"],
+        "ha": ["Yaushe ne zan fi saurin daukar ciki?", "Muna neman haihuwa"]
+      },
+      "answers": {
+        "en": "You are most likely to become pregnant in the few days before and on the day of ovulation, which usually happens about 14 days before the next period starts. Cycles differ, so this day varies. If you have had regular sex without contraception for 12 months and are not pregnant, both partners should see a health worker. Infertility can affect men as well as women.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["conceive", "trying", "baby", "ovulation", "fertile", "pregnant", "fertility", "window"],
+        "ha": ["haihuwa", "neman", "ciki", "jariri"]
+      },
+      "min_age_band": "20+",
+      "sources": ["WHO Fact Sheet: Infertility", "WHO Family Planning: A Global Handbook for Providers (2022 update)"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["fertility"]
+    },
+    {
+      "id": "find-services",
+      "topic": "Finding a health worker",
+      "questions": {
+        "en": ["Where can I get help?", "Where is a clinic?", "I want to see a health worker"],
+        "ha": ["Ina zan sami taimako?", "Ina asibiti yake?", "Ina son ganin ma'aikacin lafiya"]
+      },
+      "answers": {
+        "en": "Primary health centres and many clinics offer family planning counselling, menstrual health advice and testing. Services for young people should be private and respectful, and a health worker should never share your information without your permission. Reply SERVICES to see verified places near you.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["clinic", "hospital", "health", "worker", "nurse", "doctor", "where", "help", "service", "services", "centre"],
+        "ha": ["asibiti", "taimako", "likita", "ma'aikacin", "lafiya", "cibiya"]
+      },
+      "min_age_band": "10-14",
+      "sources": ["WHO Global Standards for Quality Health-Care Services for Adolescents (2015)"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["services"]
+    },
+    {
+      "id": "sti-signs",
+      "topic": "Signs of infection",
+      "questions": {
+        "en": ["I have unusual discharge", "It burns when I urinate", "I have itching down there"],
+        "ha": ["Ina da fitar ruwa daga gaba", "Ina jin zafi lokacin fitsari"]
+      },
+      "answers": {
+        "en": "Unusual discharge, pain or burning when passing urine, sores, or itching in the private parts can be signs of an infection. Many infections are easy to treat, so please see a health worker rather than waiting. Using condoms helps protect you and your partner.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["discharge", "burning", "burns", "urine", "urinate", "itching", "itch", "sore", "sores", "infection", "smell", "sti"],
+        "ha": ["fitsari", "zafi", "kaikayi", "ciwo", "cuta", "ruwa"]
+      },
+      "min_age_band": "15-19",
+      "sources": ["WHO Fact Sheet: Sexually transmitted infections"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["infections"]
+    },
+    {
+      "id": "body-rights",
+      "topic": "Your body, your rights",
+      "questions": {
+        "en": ["Can someone touch me without my permission?", "What is consent?", "Do I have to have sex if someone wants to?"],
+        "ha": ["Shin wani zai iya taba ni ba tare da izini na ba?"]
+      },
+      "answers": {
+        "en": "Your body belongs to you. Nobody has the right to touch you or have sex with you without your free agreement, and you can say no at any time. If anyone hurts you, threatens you or forces you, it is not your fault, and you deserve help and safety. Reply SERVICES to see verified support services near you.",
+        "ha": ""
+      },
+      "keywords": {
+        "en": ["consent", "permission", "touch", "body", "rights", "say", "no", "agree", "pressure"],
+        "ha": ["izini", "taba", "jiki", "hakki", "yarda"]
+      },
+      "min_age_band": "10-14",
+      "sources": ["WHO Responding to children and adolescents who have been sexually abused (2017)"],
+      "review_status": "draft",
+      "referral_suggested": true,
+      "tags": ["protection"]
+    }
+  ]
+}

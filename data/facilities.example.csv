@@ -1,0 +1,4 @@
+name,state,lga,address,phone,services,hours,youth_friendly,verified_by,verified_on,is_example
+EXAMPLE Primary Health Centre A,Kano,Nassarawa,Example address 1,,srh;contraception;emergency,Mon–Fri 8am–4pm,yes,,,yes
+EXAMPLE Primary Health Centre B,Kano,Fagge,Example address 2,,srh;contraception,Mon–Sat 8am–2pm,no,,,yes
+EXAMPLE Support Centre C,Kano,Nassarawa,Example address 3,,protection;srh,24 hours,yes,,,yes

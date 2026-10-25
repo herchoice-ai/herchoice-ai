@@ -1,0 +1,12 @@
+HerChoice AI
+Copyright 2026 MUMSA Consanguinity Limited
+
+This product includes software developed by MUMSA Consanguinity Limited.
+Code is licensed under the Apache License, Version 2.0 (see LICENSE).
+Content and documentation are licensed under CC BY 4.0 (see LICENSE-CONTENT.md).
+
+Optional speech features use third-party open models, downloaded separately under their own licences:
+- Whisper speech recognition (OpenAI), MIT License
+- MMS text-to-speech for Hausa (Meta, facebook/mms-tts-hau), CC BY-NC 4.0
+  Note: the MMS model licence is non-commercial. For paid institutional deployments, replace it with a
+  commercially licensed or self-trained open Hausa voice. See docs/ROADMAP.md.
